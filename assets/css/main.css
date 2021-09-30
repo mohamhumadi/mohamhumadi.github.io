@@ -2258,7 +2258,7 @@ input, select, textarea {
 		.icon.major {
 			border: solid 1px;
 			display: inline-block;
-			border-radius: 100%;
+			border-radius:100%;
 			padding: 0.65em;
 			margin: 0 0 2em 0;
 			cursor: default;
